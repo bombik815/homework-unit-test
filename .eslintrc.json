@@ -12,10 +12,11 @@
         "sourceType": "module"
     },
     "rules": {
+        "eol-last": 0,
         "no-restricted-syntax": [
             "error",
             "LabeledStatement",
             "WithStatement"
-          ]
+    ]
     }
 }
